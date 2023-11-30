@@ -1,0 +1,19 @@
+KIỂU SỐ
+- Số nguyên 
+    int: -32768 -> 32767
+    unsigned int: 0 -> 65535
+    long: -2,147,483,648 tới 2,147,483,647
+    unsigned long :
+    long long
+
+- Số thực
+    float
+    double
+
+KIỂU CHỮ
+    char: 'a'
+    string: "abc"
+
+KIỂU LOGIC
+    bool = true / false
+
